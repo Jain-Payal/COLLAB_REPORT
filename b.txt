@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+int base=5;
+int height=4;
+float area=0.5*b*h;
+printf("Area of triangle is area=%f",area);
+}

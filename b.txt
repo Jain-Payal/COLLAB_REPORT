@@ -1,4 +1,5 @@
 #include<stdio.h>
+<<<<<<< HEAD
 int main()
 {
 <<<<<<< HEAD
@@ -10,4 +11,10 @@ int height=4;
 float area=0.5*b*h;
 printf("Area of triangle is area=%f",area);
 >>>>>>> b1
+=======
+main()
+{
+int l=10,b=20;
+printf("AREA OF RECTANGLE=%d",l*b);
+>>>>>>> c1
 }

@@ -1,0 +1,6 @@
+#include<stdio.h>
+main()
+{
+int l=10,b=20;
+printf("AREA OF RECTANGLE=%d",l*b);
+}
